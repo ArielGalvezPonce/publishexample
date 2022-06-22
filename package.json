@@ -2,7 +2,7 @@
   "name": "@ArielGalvezPonce/publishexample",
   "version": "1.0.0",
   "publishConfig": {
-    "@ArielGalvezPonce:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "description": "just testing the github actions tutorial to publish npm packages",
   "main": "index.js",
