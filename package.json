@@ -1,0 +1,23 @@
+{
+  "name": "publishexample",
+  "version": "1.0.0",
+  "publishConfig": {
+    "@ArielGalvezPonce:registry": "https://npm.pkg.github.com"
+  },
+  "description": "just testing the github actions tutorial to publish npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielGalvezPonce/publishexample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielGalvezPonce/publishexample/issues"
+  },
+  "homepage": "https://github.com/ArielGalvezPonce/publishexample#readme"
+}
